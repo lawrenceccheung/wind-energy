@@ -9,6 +9,7 @@ Comparison of Pedersen N02 case
 | [NaluWindRun01](NaluWindRun01)                 | Nalu-Wind BC with old BC, Smagorinsky model (Run 24hr) |
 | [NaluWindRun02](NaluWindRun02)                 | Nalu-Wind BC with new BC, Smagorinsky model (Run 24hr) |
 | [NaluWindRun03](NaluWindRun03)                 | Nalu-Wind BC with new BC, 1-eqn k-sgs model (Run 32hr) |
+| [NaluWindRun04](NaluWindRun04)                 | Nalu-Wind BC with k-sgs and 30% upwind (Run 24hr)      |
 | [AmrWind](AmrWind)                             | Amr-Wind, Smagorinsky model                            |
 | [compareRuns_n02.ipynb](compareRuns_n02.ipynb) | Jupyter notebook comparing N02 runs                    |
 |                                                |                                                        |
